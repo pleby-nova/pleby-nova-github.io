@@ -1,1 +1,0 @@
-# pleby-nova.github.io
