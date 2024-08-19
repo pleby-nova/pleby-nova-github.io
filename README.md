@@ -1,1 +1,1 @@
-# pleby-nova-github.io
+# pleby-nova.github.io
